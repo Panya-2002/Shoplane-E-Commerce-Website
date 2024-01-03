@@ -50,7 +50,7 @@ function dynamicClothingSection(ob) {
 let mainContainer = document.getElementById("mainContainer");
 let containerClothing = document.getElementById("containerClothing");
 let containerAccessories = document.getElementById("containerAccessories");
-// mainContainer.appendChild(dynamicClothingSection('hello world!!'))
+
 
 // BACKEND CALLING
 
